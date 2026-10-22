@@ -10,6 +10,41 @@ It uses Natural Language Processing (NLP), TF-IDF character n-gram features, and
 
 The project includes a simple and interactive web interface built using Streamlit.
 
+
+
+
+
+
+<img width="840" height="545" alt="image" src="https://github.com/user-attachments/assets/6a244098-66e9-4320-bea2-62276143b133" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## ✨ Features
 
 - Detects languages from user-input text.
